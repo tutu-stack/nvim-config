@@ -1,6 +1,6 @@
 # Introduction
 
-This repo hosts my Nvim configuration for Linux, macOS, and Windows. init.lua is the config entry point for terminal Nvim
+This repo hosts my Nvim configuration for Linux and macOS. init.lua is the config entry point for terminal Nvim
 
 
 # Install and setup
